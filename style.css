@@ -21,7 +21,10 @@ h1
     margin-left: auto;
     margin-right: auto;
 }
-
+.footer-div{
+    position: relative;
+    text-align: center;
+}
 /* #result
 {
     display: none;
